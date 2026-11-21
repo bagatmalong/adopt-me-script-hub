@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>AdoptMe.ExecutorBridge</RootNamespace>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>
